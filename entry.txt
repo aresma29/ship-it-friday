@@ -1,0 +1,1 @@
+fix: deploy Friday 4:59pm — CI green, coverage 12%, and the rollback plan is a prayer I wrote in the commit body
